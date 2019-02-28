@@ -17,6 +17,13 @@
         <module>lwh-springcloud-provider-dept-8002</module>
         <module>lwh-springcloud-provider-dept-8003</module>
         <module>lwh-springcloud-consumer-dept-feign</module>
+        <module>lwh-springcloud-provider-dept-hystrix-8001</module>
+        <module>lwh-springcloud-consumer-hystrix-dashboard</module>
+        <module>lwh-springcloud-zuul-gateway-9527</module>
+        <module>lwh-springcloud-config-3344</module>
+        <module>lwh-springcloud-config-client-3355</module>
+        <module>lwh-springcloud-config-dept-client-8001</module>
+        <module>lwh-springcloud-config-eureka-client-7001</module>
     </modules>
     <packaging>pom</packaging>
 

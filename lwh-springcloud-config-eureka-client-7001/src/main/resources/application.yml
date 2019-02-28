@@ -1,0 +1,4 @@
+spring:
+  application:
+    name: lwh-springcloud-config-eureka-client
+
