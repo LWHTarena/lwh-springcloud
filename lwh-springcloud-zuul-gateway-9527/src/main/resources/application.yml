@@ -15,7 +15,7 @@ eureka:
  
  
 zuul: 
-  #ignored-services: microservicecloud-dept
+  #ignored-services: lwh-springcloud-dept
   prefix: /atguigu
   ignored-services: "*"
   routes: 
