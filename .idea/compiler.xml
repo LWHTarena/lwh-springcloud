@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="lwh-springcloud-api" />
         <module name="lwh-springcloud-consumer-dept-80" />
+        <module name="lwh-springcloud-consumer-dept-feign" />
         <module name="lwh-springcloud-eureka-7001" />
         <module name="lwh-springcloud-eureka-7002" />
         <module name="lwh-springcloud-eureka-7003" />
