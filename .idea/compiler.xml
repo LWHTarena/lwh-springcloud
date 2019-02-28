@@ -7,14 +7,21 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="lwh-springcloud-api" />
+        <module name="lwh-springcloud-config-3344" />
+        <module name="lwh-springcloud-config-client-3355" />
+        <module name="lwh-springcloud-config-dept-client-8001" />
+        <module name="lwh-springcloud-config-eureka-client-7001" />
         <module name="lwh-springcloud-consumer-dept-80" />
         <module name="lwh-springcloud-consumer-dept-feign" />
+        <module name="lwh-springcloud-consumer-hystrix-dashboard" />
         <module name="lwh-springcloud-eureka-7001" />
         <module name="lwh-springcloud-eureka-7002" />
         <module name="lwh-springcloud-eureka-7003" />
         <module name="lwh-springcloud-provider-dept-8001" />
         <module name="lwh-springcloud-provider-dept-8002" />
         <module name="lwh-springcloud-provider-dept-8003" />
+        <module name="lwh-springcloud-provider-dept-hystrix-8001" />
+        <module name="lwh-springcloud-zuul-gateway-9527" />
       </profile>
     </annotationProcessing>
   </component>
